@@ -9,3 +9,4 @@ Combinational RTL Design
 Synthesizable Verilog Code
 Functional Verification using Testbench
 Synthesized Gate-Level Schematic
+
